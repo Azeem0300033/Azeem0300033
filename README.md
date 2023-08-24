@@ -4,6 +4,7 @@
 ## 🚀 About Me
 I specialize in Front-End and Back-End web development, ranging from small tasks to huge, high-load projects. I pride myself on writing clean, precise and bug free code! One of my biggest areas of expertise is a strong understanding of object-oriented concepts and design patterns.
 
+[Portfolio](https://portfolio.bitspro.tech/)
 
 
 ## 🛠 Skills
